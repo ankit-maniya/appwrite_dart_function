@@ -8,7 +8,7 @@
             "name": "appwrite_dart_function",
             "request": "launch",
             "type": "dart",
-            "program": "lib/main.dart",
+            "program": "main.dart",
         }
     ]
 }
